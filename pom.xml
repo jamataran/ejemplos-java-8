@@ -60,6 +60,11 @@
             <artifactId>guava</artifactId>
             <version>24.0-jre</version>
         </dependency>
+        <dependency>
+            <groupId>org.jetbrains</groupId>
+            <artifactId>annotations</artifactId>
+            <version>15.0</version>
+        </dependency>
 
     </dependencies>
 </project>
