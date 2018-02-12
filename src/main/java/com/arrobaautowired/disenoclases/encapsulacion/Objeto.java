@@ -1,4 +1,6 @@
-package com.arrobaautowired.encapsulacion;
+package com.arrobaautowired.disenoclases.encapsulacion;
+
+import lombok.Data;
 
 /**
  * Created by jose on 30/1/18.
@@ -6,6 +8,7 @@ package com.arrobaautowired.encapsulacion;
  * Un objeto es el unico que conoce su estructura, únicamente expone cierta parte de un contenido.
  * Cada clase debe tener un único fichero .java asociado.
  */
+@Data
 public class Objeto {
 
     // private: Solo se puede acceder a él desde dentro de la clase.
@@ -21,3 +24,4 @@ public class Objeto {
     String atributoDefault;
 
 }
+

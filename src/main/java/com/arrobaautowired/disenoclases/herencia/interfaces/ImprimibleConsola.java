@@ -1,6 +1,4 @@
-package com.arrobaautowired.herencia.interfaces;
-
-import lombok.extern.log4j.Log4j2;
+package com.arrobaautowired.disenoclases.herencia.interfaces;
 
 /**
  * Created by jose on 31/1/18.

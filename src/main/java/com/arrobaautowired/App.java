@@ -1,7 +1,7 @@
 package com.arrobaautowired;
 
-import com.arrobaautowired.polimorfismo.Ejemplos;
-import com.arrobaautowired.singletoneinmutable.MiSingleton;
+import com.arrobaautowired.disenoclases.polimorfismo.Ejemplos;
+import com.arrobaautowired.disenoclases.singletoneinmutable.MiSingleton;
 import lombok.extern.log4j.Log4j2;
 
 /**

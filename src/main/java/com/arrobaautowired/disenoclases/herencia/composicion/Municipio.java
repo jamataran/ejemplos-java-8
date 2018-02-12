@@ -1,4 +1,4 @@
-package com.arrobaautowired.herencia.composicion;
+package com.arrobaautowired.disenoclases.herencia.composicion;
 
 import lombok.Data;
 

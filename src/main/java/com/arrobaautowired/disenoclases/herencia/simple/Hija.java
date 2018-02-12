@@ -1,4 +1,4 @@
-package com.arrobaautowired.herencia.simple;
+package com.arrobaautowired.disenoclases.herencia.simple;
 
 import com.google.common.base.Objects;
 

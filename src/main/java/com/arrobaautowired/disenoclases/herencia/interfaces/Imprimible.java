@@ -1,4 +1,4 @@
-package com.arrobaautowired.herencia.interfaces;
+package com.arrobaautowired.disenoclases.herencia.interfaces;
 
 /**
  * Created by jose on 31/1/18.

@@ -1,4 +1,4 @@
-package com.arrobaautowired.singletoneinmutable;
+package com.arrobaautowired.disenoclases.singletoneinmutable;
 
 /**
  * Created by jose on 6/2/18.

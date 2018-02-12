@@ -1,4 +1,4 @@
-package com.arrobaautowired.singletoneinmutable;
+package com.arrobaautowired.disenoclases.singletoneinmutable;
 
 import lombok.Data;
 

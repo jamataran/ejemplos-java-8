@@ -1,4 +1,4 @@
-package com.arrobaautowired.polimorfismo;
+package com.arrobaautowired.disenoclases.polimorfismo;
 
 import lombok.extern.log4j.Log4j2;
 

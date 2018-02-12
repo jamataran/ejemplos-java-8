@@ -1,11 +1,9 @@
-package com.arrobaautowired.polimorfismo;
+package com.arrobaautowired.disenoclases.polimorfismo;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.EqualsAndHashCode;
-import lombok.Getter;
 import lombok.extern.log4j.Log4j2;
-import lombok.extern.slf4j.Slf4j;
 
 /**
  * Created by jose on 1/2/18.

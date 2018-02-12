@@ -1,4 +1,4 @@
-package com.arrobaautowired.atributosmetodosclasesestaticos;
+package com.arrobaautowired.disenoclases.atributosmetodosclasesestaticos;
 
 import lombok.extern.log4j.Log4j2;
 
